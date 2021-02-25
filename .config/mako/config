@@ -1,0 +1,8 @@
+padding=8
+border-size=0
+border-radius=4
+background-color=#21242B
+format=<b>%a</b>\n%s\n%b
+font=JetBrains Mono 10
+max-visible=5
+
