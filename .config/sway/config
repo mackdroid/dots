@@ -1,3 +1,4 @@
+#!/bin/bash
 ### Variables
 # menu command 
 set $menu wofi --show drun -I -t kitty -w 4
